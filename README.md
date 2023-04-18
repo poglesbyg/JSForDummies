@@ -1,1 +1,1 @@
-# JavaScript All-In=One ForDummies code
+# JavaScript All-In-One ForDummies code
